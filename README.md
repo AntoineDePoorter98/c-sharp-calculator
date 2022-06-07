@@ -1,3 +1,3 @@
-C# desktop calculator
+C# desktop dotnet calculator
 
 ![calc](screenshot.jpg)
